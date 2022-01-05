@@ -1,0 +1,19 @@
+{
+  "name": "nucleus-client",
+  "version": "0.0.1",
+  "description": "A powerful repository for interacting with the Discord API",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nucleus-discord/Nucleus-Client.git"
+  },
+  "author": "TheDevYellowy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nucleus-discord/Nucleus-Client/issues"
+  },
+  "homepage": "https://github.com/nucleus-discord/Nucleus-Client#readme"
+}
